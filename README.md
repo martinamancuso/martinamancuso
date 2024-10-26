@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martina Mancuso ✨</h1>
-<h3 align="center">A passionate Full-Stack Developer from Italy</h3>
+<h3 align="center">A passionate Web Developer from Italy</h3>
 
 - 📄 Know about my experiences [https://martinamancuso.com](https://martinamancuso.com)
 
